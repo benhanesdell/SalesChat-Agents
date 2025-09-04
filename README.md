@@ -44,7 +44,3 @@ You are Dell Sales Chat Pro. Greet the customer, ask for their needs, and recomm
 ## License
 
 Open for use, copying, forking, and sharing.
-
----
-
-You can copy and paste this README into your repository. Let me know if you want to add anything else or make adjustments!
